@@ -1,0 +1,113 @@
+/* ჰედეის დასაწყისი */
+.logo{
+	width: 100px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.navigation{
+	margin-top: 17.5px
+}
+.navigation-ul{
+    margin-left:30px;
+}
+.cellendar{ 
+	width: 56px;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+.cellendar_2{
+    width: 56px;
+	margin-top: 50px;
+	margin-left: 30px;
+}
+
+.paragraph_title{
+    font-size: 20px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 23px;
+    font-family: BPG Nino Mtavruli;
+    font-weight: bold;
+}
+.chupala{
+    width: 270px;
+    margin-left: 30px;
+    margin-top: 23px;
+}
+.paragraph{
+    font-family: bpg_ingiri_arial;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #000000;
+}
+
+
+.navigation-a{
+	display: block;
+	padding-top: 7.5px;
+	padding-bottom: 7.5px;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: "nino_mtavruli_bold", sans-serif;
+	color: #3D58A6;
+	/*color: rgb(61,88,166);*/
+}
+.navigation-a:hover{
+	color: #EE4036;
+}
+ /* ჰედეის დასსარული */
+.banner{
+	margin-left: 30px;
+	margin-top: 22.5px;
+}
+/* footer დასაწყისი */
+.footer{
+	margin-left: 30px;
+	padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fb{
+	height: 30px;
+}
+.youtube{
+	height: 30px;
+}
+.social-list{
+	display: inline-block;
+	margin-right: 35px; 
+}
+.line{
+	width: 1px;
+	height: 30px;
+	background-color: #3D58A6;
+}
+/* footer დასსრული */
+/* კონტაქტის გვერდის დასაწყისი */
+.contact-section{
+	width: 300px;
+	display: block;
+	/*margin: 0 auto;*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.contact-list{
+	text-align: center;
+}
+.heading{
+	text-align: center;
+	font-family: "nino_mtavruli_bold";
+	font-size: 20px;
+	color: #3D58A6;
+}
+.left-side,
+.right-side{
+	font-family: "bpg_ingiri_arial";
+	font-size: 16px;
+}
+.left-side{
+	color: #808080;
+}
+/* კონტაქტის გვერდი დასასრული */
